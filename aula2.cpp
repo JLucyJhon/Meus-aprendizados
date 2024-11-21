@@ -27,6 +27,6 @@ int main()
     cout << decimal << "\n";
     cout << decimal2 << "\n";
     cout << vivo << "\n";
-    cout << Nome << "\n" system("pause");
+    cout << Nome << "\n";
     return 0;
 }
