@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
+#define pi 3.1415
 
 main()
 {
     int vidas = 0, tiros = 0, life = 0, dedos = 0;
-
+    cout << pi << "\n\n";
     cout << "me diga quantas vidas existem na sua sala: " << endl;
     cin >> vidas;
     cout << "diga quantas balas uma sniper L115 pode disparar: " << endl;
